@@ -14,6 +14,7 @@ gem 'jquery-rails'
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
 gem 'unicorn'
+gem 'factory_girl_rails'
 
 group :development do
   gem 'guard'
