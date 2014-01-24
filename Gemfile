@@ -15,6 +15,10 @@ gem 'jquery-rails'
 
 gem 'unicorn'
 
+group :development do
+  gem 'guard'
+  gem 'guard-minitest'
+end
 # Use Capistrano for deployment
 # gem 'capistrano', group: :development
 
