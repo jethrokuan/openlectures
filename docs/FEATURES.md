@@ -1,27 +1,27 @@
 # Front-End Specifications
-[ ] Responsive Mobile-first
-[ ] Varnish Cache
-[ ] Grunt + Bowe
-[ ] EditorConfig
+- [ ] Responsive Mobile-first
+- [ ] Varnish Cache
+- [ ] Grunt + Bowe
+- [ ] EditorConfig
 
 # Client-Side Features
 ## Universal
-[ ] OAuth/OpenID/Persona Login
-[ ] Flattr (for people to give us $$ if they want to)
+- [ ] OAuth/OpenID/Persona Login
+- [ ] Flattr (for people to give us $$ if they want to)
 
 ## OL
-[ ] Display Subway Map for user to navigate content
-[ ] Playback Video with subtitles (if available)
-[ ] Track Video Playback/Play Count, etc.
+- [ ] Display Subway Map for user to navigate content
+- [ ] Playback Video with subtitles (if available)
+- [ ] Track Video Playback/Play Count, etc.
 
 ## OQ
-[ ] Ask and Answer Questions
-[ ] Question Tagging
+- [ ] Ask and Answer Questions
+- [ ] Question Tagging
 
 ## ON
-[ ] Upload and Display Notes
-[ ] Highlighting and Annotation
-[ ] User Saving of Notes (Dropbox?)
+- [ ] Upload and Display Notes
+- [ ] Highlighting and Annotation
+- [ ] User Saving of Notes (Dropbox?)
 
 # Database Requirements
 Subject has many Topics has many Lessons has many Checkpoints
@@ -114,17 +114,17 @@ Contributor extends user:
 - _String_ Type (Writer, Lecturer, Post-Production, Designer, Community Moderator, Octopus) (required)
 
 # JS Requirements
-[ ] MathJax (with mhchem Package) (for equation and chemistry figure supports)
-[ ] Offline.js (for detecting when the user becomes disconnected)
-[ ] RequireJS (for AMD loading)
-[ ] mailcheck (for checking email domains)
-[ ] fastclick (to polyfill for the 300ms delay on mobile browser UIs)
-[ ] zxcvbn (password strength estimation)
-[ ] list.js (for searching lists real-time)
+- [ ] MathJax (with mhchem Package) (for equation and chemistry figure supports)
+- [ ] Offline.js (for detecting when the user becomes disconnected)
+- [ ] RequireJS (for AMD loading)
+- [ ] mailcheck (for checking email domains)
+- [ ] fastclick (to polyfill for the 300ms delay on mobile browser UIs)
+- [ ] zxcvbn (password strength estimation)
+- [ ] list.js (for searching lists real-time)
 
 # Gems
-[ ] breach-mitigation-rails (for security)
-[ ] secureheaders (for more security)
-[ ] recommendify (for showing related checkpoints/questions)
-[ ] wicked (for setting up a wizard so the user can create their character)
-[ ] pg_search (for um, search)
+- [ ] breach-mitigation-rails (for security)
+- [ ] secureheaders (for more security)
+- [ ] recommendify (for showing related checkpoints/questions)
+- [ ] wicked (for setting up a wizard so the user can create their character)
+- [ ] pg_search (for um, search)
